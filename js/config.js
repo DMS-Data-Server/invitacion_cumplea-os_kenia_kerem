@@ -14,7 +14,7 @@ const EVENT_CONFIG = {
   },
   event: {
     date: "2026-10-03",
-    time: "4:00PM",              // Pendiente
+    time: "4:00 PM",              // Pendiente
     venue: "Quinta Sinaí",
     address: "Monte Bajo #100, Residencial Monteverde, CP.67257, Cd. Benito Juárez, N.L.",
     mapsUrl: "https://maps.app.goo.gl/mAry8K1RyrfoAKC8A"
