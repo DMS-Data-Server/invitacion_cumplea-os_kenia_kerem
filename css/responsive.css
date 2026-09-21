@@ -1,0 +1,2 @@
+@media (max-width:420px){.hero{padding-left:14px;padding-right:14px}.paper{margin-left:9px;margin-right:9px;padding-left:12px;padding-right:12px}.detail{padding:0 5px}.detail strong{font-size:.68rem}.actions{grid-template-columns:1fr;padding-left:14px;padding-right:14px}.gifts{grid-template-columns:54px 1fr}.gift-icon{font-size:2.3rem}}
+@media (min-width:621px){body{padding:28px 0}.invitation{border-radius:18px}.hero{min-height:920px}.closing{min-height:360px}}
